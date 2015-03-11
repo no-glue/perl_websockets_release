@@ -155,3 +155,7 @@ Simple broadcast server for C<utf8> messages.
 =head1 DESCRIPTION
 
 The module implements websockets 6455 standard. It supports concurrent connections using threads and communication based on message queue.
+
+=head1 AUTHOR
+
+scripts E<lt>nikolapav1985@gmail.comE<gt>
