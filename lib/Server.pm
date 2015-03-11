@@ -5,6 +5,8 @@ use Digest::SHA1 qw(sha1_base64);
 use MIME::Base64;
 use utf8;
 
+our $VERSION = "0.01";
+
 my $BYTES_TO_READ = 2048;
 
 sub new {
